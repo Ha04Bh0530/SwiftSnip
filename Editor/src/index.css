@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+
+  /* Custom scrollbar. */
+  ::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-latte-surface0 dark:bg-mocha-surface0;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-latte-surface2 dark:bg-mocha-surface2 hover:bg-latte-overlay0 dark:hover:bg-mocha-overlay0;
+  }
+}
