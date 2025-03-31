@@ -9,4 +9,3 @@ A Modern, Mobile-First Code Snippet Manager.
 ![Screenshot_6](https://github.com/Ha04Bh0530/SwiftSnip/blob/main/Assets/Screenshot%20from%202025-03-14%2011-54-01.png?raw=true)
 ![Screenshot_7](https://github.com/Ha04Bh0530/SwiftSnip/blob/main/Assets/Screenshot%20from%202025-03-14%2011-54-06.png?raw=true)
 ![Screenshot_8](https://github.com/Ha04Bh0530/SwiftSnip/blob/main/Assets/Screenshot%20from%202025-03-14%2011-54-14.png?raw=true)
-By Harsh Bhardwaj (E23CSEU0427)
